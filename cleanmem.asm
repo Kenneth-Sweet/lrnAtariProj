@@ -10,4 +10,4 @@ Start:
     txs             ; Transfer the X register to the (S)tack pointer register
 
 ; Clear the Page Zero Region ($00 to $FF)
-; Meaning the entire RAM and also TIA registers.
+; Meaning the entire RAM and also TIA registers. 
